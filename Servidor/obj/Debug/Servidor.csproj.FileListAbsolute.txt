@@ -1,0 +1,6 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Servidor\bin\Debug\Servidor.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Servidor\bin\Debug\Servidor.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Servidor\bin\Debug\Servidor.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Servidor\obj\Debug\Servidor.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Servidor\obj\Debug\Servidor.pdb

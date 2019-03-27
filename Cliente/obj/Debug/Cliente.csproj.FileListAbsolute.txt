@@ -1,0 +1,6 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Cliente\bin\Debug\Cliente.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Cliente\bin\Debug\Cliente.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Cliente\bin\Debug\Cliente.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Cliente\obj\Debug\Cliente.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PruebaTCP\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\PruebaTCP\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
